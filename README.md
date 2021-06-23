@@ -92,7 +92,7 @@ try
     }
 catch(Exception e) 
     {
-        log.debug("Exception:" + e)
+        log.debug("Exception:" + e);
     }
 
     
